@@ -1,11 +1,12 @@
 # Very Empty
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1000&color=FFFFFF&center=false&vCenter=false&width=300&lines=Spin" alt="Typing SVG" />
+<div align="left" style="max-width: 400px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1000&color=FFFFFF&center=false&vCenter=false&width=300&lines=%3Cu%3ESpin%3C%2Fu%3E" alt="Typing SVG" />
   <br />
-  <sub style="color:white; font-family:Segoe UI;">
-     <strong>Disclaimer:</strong> The content on this profile is provided for informational and entertainment purposes only. I am not responsible for how others choose to use, interpret, or act upon any material shared here. Use at your own risk.
+  <sub style="color:white; font-family:Segoe UI; font-size:12px;">
+    <strong>Disclaimer:</strong> The content on this profile is provided for informational and entertainment purposes only. I am not responsible for how others choose to use, interpret, or act upon any material shared here. Use at your own risk.
   </sub>
-</p>
+</div>
+
 
 
 
