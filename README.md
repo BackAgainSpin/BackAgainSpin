@@ -1,7 +1,12 @@
 # Very Empty
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1000&color=FFFFFF&center=false&vCenter=false&width=300&lines=Spin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1000&color=FFFFFF&center=false&vCenter=false&width=300&lines=%3Cu%3ESpin%3C%2Fu%3E" alt="Typing SVG" />
+  <br />
+  <sub style="color:white; font-family:Segoe UI;">
+    Anything on my profile is like, not my fault if you get in trouble.
+  </sub>
 </p>
+
 
 
 
