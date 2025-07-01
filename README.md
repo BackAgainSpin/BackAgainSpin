@@ -1,5 +1,5 @@
 <div align="left" style="max-width: 400px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1000&color=FFFFFF&center=false&vCenter=false&width=300&lines=#Spin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1000&color=FFFFFF&center=false&vCenter=false&width=300&lines=Spin" alt="Typing SVG" />
   <br />
   <sub style="color:white; font-family:Segoe UI; font-size:12px;">
     <strong>Disclaimer:</strong> The content on this profile is provided for<br />
