@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1000&color=FFFFFF&center=false&vCenter=false&width=300&lines=Spin" alt="Typing SVG" />
     <br />
     <sub style="color:white; font-family:Segoe UI; font-size:12px;">
-      <strong>Disclaimer:</strong> The content on this profile is provided for                                                                  Freaky<br />
+      <strong>Disclaimer:</strong> The content on this profile is provided for‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Freaky<br />
       informational and entertainment purposes only.<br />
       I am not responsible for how others choose to use, interpret,<br />
       or act upon any material shared here. Use at your own risk.
