@@ -4,9 +4,10 @@
     ________________________________________________________________________________________________________________________________________________ <br />
     <br />
     <sub style="color:white; font-family:Segoe UI; font-size:12px;">
-      <strong>Disclaimer:</strong> The content on this profile is provided for informational and entertainment purposes only.‎‎<br /> 
-      I am not responsible for how others choose to use, interpret,<br />
-      or act upon any material shared here. Use at your own risk.<br />
+      <strong>Disclaimer:</strong> The content on this profile is provided for <br />
+      informational and entertainment purposes only.‎‎ I am not responsible <br />
+      for how others choose to use, interpret, or act upon any material shared here.<br /> 
+      Use at your own risk.<br />
     </sub>
   </div>
 </div>
