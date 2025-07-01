@@ -1,5 +1,6 @@
 <div style="display: flex; justify-content: space-between; flex-wrap: nowrap; width: 100%; max-width: 900px;">
   <div style="flex: 1 1 400px; max-width: 400px;">
+    <br />
     <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=45&pause=1000&color=FFFFFF&center=false&vCenter=false&width=500&lines=Spin" alt="Typing SVG" /> <br />
 ______________________________________________________________________________ <br />
     <sub style="color:white; font-family:Segoe UI; font-size:12px;">
