@@ -1,18 +1,21 @@
-<div align="left" style="max-width: 400px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1000&color=FFFFFF&center=false&vCenter=false&width=300&lines=Spin" alt="Typing SVG" />
-  <br />
-  <sub style="color:white; font-family:Segoe UI; font-size:12px;">
-    <strong>Disclaimer:</strong> The content on this profile is provided for<br />
-    informational and entertainment purposes only.<br />
-    I am not responsible for how others choose to use, interpret,<br />
-    or act upon any material shared here. Use at your own risk.
-  </sub>
-</div>
+<div style="display: flex; justify-content: space-between; max-width: 800px; width: 100%;">
+  <div style="max-width: 400px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1000&color=FFFFFF&center=false&vCenter=false&width=300&lines=Spin" alt="Typing SVG" />
+    <br />
+    <sub style="color:white; font-family:Segoe UI; font-size:12px;">
+      <strong>Disclaimer:</strong> The content on this profile is provided for<br />
+      informational and entertainment purposes only.<br />
+      I am not responsible for how others choose to use, interpret,<br />
+      or act upon any material shared here. Use at your own risk.
+    </sub>
+  </div>
 
-<div align="right" style="max-width: 400px;">
-  <sub style="color:white; font-family:Segoe UI; font-size:12px;">
-    Freaky
-  </sub>
+  
+  <div style="max-width: 400px; text-align: right;">
+    <sub style="color:white; font-family:Segoe UI; font-size:12px;">
+      Right side >>
+    </sub>
+  </div>
 </div>
 
 
