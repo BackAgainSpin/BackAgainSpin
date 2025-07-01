@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: space-between; max-width: 800px; width: 100%;">
-  <div style="max-width: 400px;">
+<div style="display: flex; justify-content: space-between; flex-wrap: nowrap; width: 100%; max-width: 900px;">
+  <div style="flex: 1 1 400px; max-width: 400px;">
     <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1000&color=FFFFFF&center=false&vCenter=false&width=300&lines=Spin" alt="Typing SVG" />
     <br />
     <sub style="color:white; font-family:Segoe UI; font-size:12px;">
@@ -10,17 +10,12 @@
     </sub>
   </div>
 
-  
-  <div style="max-width: 400px; text-align: right;">
+  <div style="flex: 0 1 200px; text-align: right; max-width: 200px;">
     <sub style="color:white; font-family:Segoe UI; font-size:12px;">
-      Right side >>
+      Freaky
     </sub>
   </div>
 </div>
-
-
-
-
 
 
 
