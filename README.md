@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1000&color=FFFFFF&center=false&vCenter=false&width=300&lines=Spin" alt="Typing SVG" />
   <br />
   <sub style="color:white; font-family:Segoe UI;">
-    Anything on my profile is like, not my fault if you get in trouble.
+     <strong>Disclaimer:</strong> The content on this profile is provided for informational and entertainment purposes only. I am not responsible for how others choose to use, interpret, or act upon any material shared here. Use at your own risk.
   </sub>
 </p>
 
