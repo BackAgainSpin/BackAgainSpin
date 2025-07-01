@@ -2,6 +2,7 @@
   <div style="flex: 1 1 400px; max-width: 400px;">
     <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=35&pause=1000&color=FFFFFF&center=false&vCenter=false&width=500&lines=Spin" alt="Typing SVG" /> <br />
     ________________________________________________________________________________________________________________________________________________ <br />
+    <br />
     <sub style="color:white; font-family:Segoe UI; font-size:12px;">
       <strong>Disclaimer:</strong> The content on this profile is provided for informational and entertainment purposes only.‎‎<br /> 
       I am not responsible for how others choose to use, interpret,<br />
