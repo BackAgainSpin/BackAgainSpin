@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=35&pause=1000&color=FFFFFF&center=false&vCenter=false&width=500&lines=Spin" alt="Typing SVG" /> <br />
 ______________________________________________________________________________ <br />
     <sub style="color:white; font-family:Segoe UI; font-size:12px;">
-      <strong>Disclaimer:</strong> The content on this profile is provided for‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Freaky<br />
+      <strong>Disclaimer:</strong> The content on this profile is provided for‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ![Stats](https://github-readme-stats.vercel.app/api?username=BackAgainSpin&show_icons=true&theme=transparent)<br />
       informational and entertainment purposes only.<br />
       I am not responsible for how others choose to use, interpret,<br />
       or act upon any material shared here. Use at your own risk.
