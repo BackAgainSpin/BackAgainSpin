@@ -1,7 +1,8 @@
 # Very Empty
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1000&color=0D1117&center=false&vCenter=false&width=300&lines=Spin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&pause=1000&color=FFFFFF&center=false&vCenter=false&width=300&lines=Spin" alt="Typing SVG" />
 </p>
+
 
 
 
