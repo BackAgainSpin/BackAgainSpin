@@ -9,6 +9,11 @@
   </sub>
 </div>
 
+<div align="right" style="max-width: 400px;">
+  <sub style="color:white; font-family:Segoe UI; font-size:12px;">
+    Freaky
+  </sub>
+</div>
 
 
 
